@@ -24,7 +24,6 @@ cd mobile-number-validator
 
 ## Usage
 \```python
-from src.validator import MobileValidator
 
 validator = MobileValidator()
 
@@ -41,19 +40,6 @@ print(result)
 \```
 
 ## Running Tests
-\```bash
-pip install pytest
-pytest tests/ -v
 \```
-
-## Project Structure
-\```
-mobile-number-validator/
-├── src/
-│   └── validator.py
-├── tests/
-│   └── test_validator.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+python test_numbers
 \```
