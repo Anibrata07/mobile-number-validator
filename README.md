@@ -18,7 +18,7 @@ and identifies network providers.
 
 ## Installation
 \```bash
-git clone https://github.com/YOUR_USERNAME/mobile-number-validator.git
+git clone https://github.com/Anibrata07/mobile-number-validator.git
 cd mobile-number-validator
 \```
 
